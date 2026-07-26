@@ -1,8 +1,6 @@
 <div align="center">
   <!-- Custom GIF Animation using relative path to prevent the play button -->
   [![Ridham Jain](name-animation.gif?raw=true)](https://ridhamjain28.github.io/)
-    <img src="name-animation.gif?raw=true" alt="Ridham Jain" width="800" />
-  </a>
   
   <p align="center">
     <strong>Building logic, code, and creative tools.</strong><br>
