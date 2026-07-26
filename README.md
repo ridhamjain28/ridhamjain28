@@ -36,4 +36,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamjain28&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
+
+<br><br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 </div>
