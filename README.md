@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Custom GIF Animation from your website -->
+  <!-- Custom GIF Animation -->
   <a href="https://ridhamjain28.github.io/">
-    <img src="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28.github.io/main/name-animation.gif" alt="Ridham Jain" width="800" />
+    <img src="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28/main/name-animation.gif" alt="Ridham Jain" width="800" />
   </a>
   
   <p align="center">
-    <strong>An idea is like a virus. Resilient. Highly contagious.</strong><br>
-    ENGINEERING STUDENT | SYSTEMS & AUTOMATION ENTHUSIAST
+    <strong>Building logic, code, and creative tools.</strong><br>
+    Learning Python and DSA. Curious mind with a soft spot for cinema and simple cinematography.
   </p>
 
   <br>
