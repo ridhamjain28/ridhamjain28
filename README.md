@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Custom GIF Animation using relative path to prevent the play button -->
-  [![Ridham Jain](name-animation.gif?raw=true)](https://ridhamjain28.github.io/)
+
+[![Ridham Jain](name-animation.gif?raw=true)](https://ridhamjain28.github.io/)
   
   <p align="center">
     <strong>Building logic, code, and creative tools.</strong><br>
@@ -25,4 +25,5 @@
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
 </div>
