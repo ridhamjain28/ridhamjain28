@@ -15,7 +15,7 @@
   <a href="https://ridhamjain28.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=codeigniter&logoColor=E83333" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jainridham2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E83333" alt="Email" />
   </a>
   
