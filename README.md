@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <!-- Animated Typing SVG -->
+  <a href="https://ridhamjain28.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=E83333&center=true&vCenter=true&width=800&height=100&lines=Ridham+Jain" alt="Ridham Jain" />
+  </a>
+  
+  <p align="center">
+    <strong>Building logic, code, and creative tools.</strong><br>
+    Learning Python and DSA. Curious mind with a soft spot for cinema and simple cinematography.
+  </p>
 
-<!--
-**ridhamjain28/ridhamjain28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Social/Contact Links -->
+  <a href="https://ridhamjain28.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=codeigniter&logoColor=E83333" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E83333" alt="Email" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Tech Stack (Optional: Customize these to match your stack) -->
+  <h3>Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</div>
