@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Ridham Jain](name-animation.gif?raw=true)](https://ridhamjain28.github.io/)
+[![Ridham Jain](name-animation-ezgif.com-gif-to-webp-converter.webp)](https://ridhamjain28.github.io/)
   
   <p align="center">
     <strong>Building logic, code, and creative tools.</strong><br>
