@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Custom GIF Animation using relative path to prevent the play button -->
   <a href="https://ridhamjain28.github.io/">
-    <img src="name-animation.gif" alt="Ridham Jain" width="800" />
+    <img src="name-animation.gif?raw=true" alt="Ridham Jain" width="800" />
   </a>
   
   <p align="center">
