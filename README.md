@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Animated Typing SVG -->
+  <!-- Custom GIF Animation from your website -->
   <a href="https://ridhamjain28.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=E83333&center=true&vCenter=true&width=800&height=100&lines=Ridham+Jain" alt="Ridham Jain" />
+    <img src="https://raw.githubusercontent.com/ridhamjain28/ridhamjain28.github.io/main/name-animation.gif" alt="Ridham Jain" width="800" />
   </a>
   
   <p align="center">
-    <strong>Building logic, code, and creative tools.</strong><br>
-    Learning Python and DSA. Curious mind with a soft spot for cinema and simple cinematography.
+    <strong>An idea is like a virus. Resilient. Highly contagious.</strong><br>
+    ENGINEERING STUDENT | SYSTEMS & AUTOMATION ENTHUSIAST
   </p>
 
   <br>
@@ -21,7 +21,7 @@
   
   <br><br>
   
-  <!-- Tech Stack (Optional: Customize these to match your stack) -->
+  <!-- Tech Stack -->
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
