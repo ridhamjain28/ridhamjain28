@@ -1,5 +1,5 @@
 <div align="center">
-  
+   
   <p align="center">
     <strong>Building logic, code, and creative tools.</strong><br>
     Learning Python and DSA. Curious mind with a soft spot for cinema and simple cinematography.
